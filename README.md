@@ -20,10 +20,14 @@ Serves as an introduction to interrupt-based systems, making for a more efficien
 
 Created a sensor-based system where we can interface with the onboard temperature sensor, light sensor, and potentiometer to display the readings through the onboard LCD screen while using the on-chip ADC.
 
-## Experiment 6 - UART-ADC
+## Experiment 6 - Stepper Motor
+
+Learnt how to interface a stepper motor with the TM4C123 microcontroller for continuous rotation.
+
+## Experiment 7 - UART-ADC
 
 Learnt how to interface with analog sensors, converting their output to digital data via ADC, and transmit these readings to a serial terminal using UART.
 
-## Experiment 7 - Tic-Tac-Toe UART
+## Experiment 8 - Tic-Tac-Toe UART
 
 Implementing a Tic-Tac-Toe game through UART communication settings, interrupts, and handling data reception from a serial terminal.
